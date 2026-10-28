@@ -16,9 +16,9 @@ The project is designed to help users book tours and manage their reservations t
 
 - **Programming Language:** Java
 - **Framework:** Spring Boot
-- **Build Tool:** [Maven or Gradle — verify the project]
-- **Database:** [Specify the database used]
-- **Security:** [Specify the authentication mechanism used]
+- **Build Tool:** Maven
+- **Database:** PostgresSQL
+- **Security:** OAuth2.0
 
 ## 📋 Prerequisites
 
