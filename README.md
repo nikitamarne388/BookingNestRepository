@@ -24,10 +24,11 @@ The project is designed to help users book tours and manage their reservations t
 
 Before running the application, ensure you have installed:
 
-- Java [required version to be confirmed]
-- Maven or Gradle, depending on the project
-- [Database server, if required]
+- Java 17
+- Maven 3
+- PostgreasSQL
 - Git
+- SpringBoot 4.1
 
 ## 🚀 Getting Started
 
@@ -91,20 +92,6 @@ These commands assume the corresponding Gradle or Maven wrapper files are presen
 Alternatively, run the main Spring Boot application class from your IDE.
 
 The Java version, build tool, and database setup must be confirmed against the actual project files.
-
-## 🔌 API Endpoints
-
-Document the actual API endpoints implemented in the application.
-
-| Functionality | Endpoint | HTTP Method |
-|---|---|---|
-| User authentication | [Add actual endpoint] | [Add method] |
-| Browse tours | [Add actual endpoint] | [Add method] |
-| Book a tour | [Add actual endpoint] | [Add method] |
-| View bookings | [Add actual endpoint] | [Add method] |
-| Manage bookings | [Add actual endpoint] | [Add method] |
-
-Replace the placeholders with the endpoints and methods supported by your application.
 
 ## 🗂️ Project Structure
 
